@@ -1,0 +1,85 @@
+{
+  "workbench.colorTheme": "Monokai Dimmed",
+  "editor.rulers": [
+    120
+  ],
+  "markdownlint.config": {
+    "MD025": false
+  },
+  "ltex.enabled": true,
+  "ltex.language": "en-US",
+  "ltex.disabledRules": {
+    "en-US": [
+      "WHITESPACE_RULE",
+    ]
+  },
+  "r.rmarkdown.enableCodeLens": false,
+  "cSpell.enableFiletypes": [
+    "rmd"
+  ],
+  "cSpell.words": [
+    "Akinshin",
+    "amsmath",
+    "Andrey",
+    "anyt",
+    "biblatex",
+    "biblatexoptions",
+    "biblio",
+    "Bigg",
+    "bigskip",
+    "bookdown",
+    "citecolor",
+    "clearpage",
+    "colorlinks",
+    "CRAN",
+    "csquotes",
+    "desctools",
+    "gastwirth",
+    "Gastwirth's",
+    "guillamn",
+    "gwqe",
+    "Hmisc",
+    "hyndman",
+    "infty",
+    "interdecile",
+    "interquartile",
+    "knitr",
+    "laeken",
+    "lcrcllr",
+    "lighttailedness",
+    "linkcolor",
+    "madfactors",
+    "mathbf",
+    "mathcal",
+    "Midhinge",
+    "Midsummary",
+    "newpage",
+    "operatorname",
+    "orcidlink",
+    "Pashchenko",
+    "QTHD",
+    "quantiles",
+    "refimpl",
+    "refstepcounter",
+    "Silverman's",
+    "spatstat",
+    "stackrel",
+    "textrm",
+    "thdqe",
+    "trimean",
+    "truong",
+    "tukey",
+    "Tukey's",
+    "urlcolor",
+    "wolters",
+    "wthd"
+  ],
+  "r.lsp.promptToInstall": false,
+  "grammarly.selectors": [
+    {
+      "language": "rmarkdown",
+      "scheme": "file",
+      "pattern": "wqe.Rmd"
+    }
+  ]
+}
