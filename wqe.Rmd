@@ -91,7 +91,7 @@ Let $\x = \{ x_1, x_2, \ldots, x_n \}$ be a sample of size $n$.
 We assign non-negative weight coefficients $w_i$ with a positive sum for all sample elements:
 
 $$
-\w = \{ w_1, w_2, \ldots, w_n \}, \quad w_i \geq 0, \quad \sum_{i=1}^{n} w_i > 0.
+\w = \{ w_1, w_2, \ldots, w_n \}, \quad w_i \geq 0, \quad \sum_{j=1}^{n} w_j > 0.
 $$
 
 For simplification, we also consider normalized (standardized) weights $\overline{\w}$:
